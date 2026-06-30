@@ -10,6 +10,8 @@
     color: #FFFFFF;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    max-width: 496px;
+    align-items: center;
 }
 .hero-btn{
     cursor: pointer;
@@ -29,17 +31,10 @@
     background-color: #404BBF;
 }
 .container{
-    
+    display: flex;
     padding-right: 15px;
     padding-left: 15px;
     gap: 48px;
     flex-direction: column;
     align-items: center;
-}
-.f-i{
-    flex-basis: calc((100% - 72px) / 4);
-}
-.f-l{
-    display: flex;
-    gap: 24px;
 }

@@ -35,3 +35,6 @@
     display: flex;
     gap: 24px;
 }
+.person img{
+    display: block
+}

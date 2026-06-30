@@ -15,3 +15,11 @@
     gap: 24px;
     display: flex;
 }
+.f-i {
+    flex-basis: calc((100% - 72px) / 4);
+}
+
+.f-l {
+    display: flex;
+    gap: 24px;
+}
