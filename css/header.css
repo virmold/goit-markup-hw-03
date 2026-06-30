@@ -17,7 +17,7 @@
     font-weight: 500;
     color: #2E2F42;
     text-decoration: none;
-    padding: 20px;
+    
 }
 .menu-link:hover,
 .menu-link:focus{
@@ -40,7 +40,7 @@ address{
 }
 header{
     border-bottom: 1px solid #E7E9FC;
-    display: flex;
+    ;
 }
 .menu{
     display: flex;
@@ -48,7 +48,7 @@ header{
 
 }
 .container{
-    justify-content: space-between;
+    
     padding-right: 15px;
     padding-bottom: 15px;
     display: flex;

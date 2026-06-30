@@ -29,4 +29,5 @@
     padding-right: 15px;
     padding-left: 15px;
     gap: 72px;
+    display: flex;
 }

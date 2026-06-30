@@ -29,6 +29,7 @@
     background-color: #404BBF;
 }
 .container{
+    display: flex;
     padding-right: 15px;
     padding-left: 15px;
     gap: 48px;
