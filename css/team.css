@@ -13,7 +13,8 @@
 }
 .person{
     background-color: #FFFFFF;
-    
+    flex-basis: calc((100% - 72px) / 4);
+        border-radius: 0 0 4px 4px;
 }
 .person-name{
     font-weight: 500;
@@ -28,6 +29,9 @@
 .container{
     padding-right: 15px;
     padding-left: 15px;
-    gap: 72px;
+    
+}
+.team-list {
     display: flex;
+    gap: 24px;
 }

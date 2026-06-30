@@ -14,12 +14,18 @@
 .portfolio{
     padding-top: 120px;
     padding-bottom: 120px;
-    gap: 10px;
+   
 }
 .container {
     padding-right: 15px;
     padding-left: 15px;
-    gap: 72px;
+}
+.portfolio-list {
     display: flex;
     flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+.portfolio-item {
+    flex-basis: calc((100% - 48px) / 3);
 }
