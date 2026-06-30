@@ -51,9 +51,14 @@
     
 }
 .contacts{
-    gap: 40px;
+    
     font-style: normal;
     margin-left: auto;
+}
+.address{
+    gap: 40px;
+    margin-left: auto;
+    display: flex;
 }
 .header{
     border-bottom: 1px solid #E7E9FC;

@@ -4,6 +4,7 @@
     line-height: 1.1;
     text-align: center;
     color: #2E2F42;
+    margin-bottom: 72px;
 }
 .team{
     background-color: #F4F4FD;
@@ -37,4 +38,8 @@
 }
 .person img{
     display: block
+}
+.wr{
+    padding: 32px 16px;
+    margin: 8px;
 }
