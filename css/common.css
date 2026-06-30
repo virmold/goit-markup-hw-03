@@ -10,7 +10,8 @@ body{
 ul{
     list-style-type: none;
     margin: 0;
-    padding-left: 0
+    padding-left: 0;
+    display: flex;
 }
 h1, h2, h3, p{
     margin: 0;
@@ -28,5 +29,5 @@ h1, h2, h3, p{
     margin: -1px;
 }
 .container{
-    display: flex;
+    width: 1158px;
 }

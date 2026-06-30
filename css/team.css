@@ -7,6 +7,8 @@
 }
 .team{
     background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px;
     
 }
 .person{
@@ -22,4 +24,9 @@
 }
 .person-job{
     text-align: center;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    gap: 72px;
 }

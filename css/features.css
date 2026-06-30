@@ -4,3 +4,16 @@
     color: #2E2F42;
     line-height: 1.2;
 }
+.features{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    gap: 24px;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    gap: 24px;
+}
+li{
+    gap: 8px;
+}

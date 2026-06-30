@@ -13,6 +13,7 @@
     color: #4D5AE5;
 }
 .menu-link{
+    
     font-weight: 500;
     color: #2E2F42;
     text-decoration: none;
@@ -35,11 +36,24 @@
 }
 address{
     font-style: normal;
+    
 }
 header{
-    border: 1px solid black;
+    border-bottom: 1px solid #E7E9FC;
+    display: flex;
 }
 .menu{
     display: flex;
+    gap: 40px;
 
+}
+.container{
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    
+}
+.contacts{
+    gap: 40px;
 }

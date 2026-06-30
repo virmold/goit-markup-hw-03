@@ -11,3 +11,13 @@
     line-height: 1.2;
     color: #2E2F42;
 }
+.portfolio{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    gap: 10px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    gap: 72px;
+}
